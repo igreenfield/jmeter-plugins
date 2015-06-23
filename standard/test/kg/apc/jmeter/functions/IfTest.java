@@ -73,6 +73,7 @@ public class IfTest {
         String expResult = "__if";
         String result = instance.getReferenceKey();
         assertEquals(expResult, result);
+
     }
 
     /**
